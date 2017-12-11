@@ -2,7 +2,7 @@
   "device": [
     {
       "id": 1,
-      "title": "hello"
+      "title": "hello",
       "connectionString": "HostName=OnlizerTest.azure-devices.net;DeviceId=ESP8266;SharedAccessKey=TyeBDGLmeNb/50BMYjnHR8+3kWGSZtDS0pKGSCwkIww="
     }
   ]
